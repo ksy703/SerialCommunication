@@ -1,0 +1,10 @@
+C:\Users\Honeywell\Desktop\ksy\study\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+C:\Users\Honeywell\Desktop\ksy\study\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+C:\Users\Honeywell\Desktop\ksy\study\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+C:\Users\Honeywell\Desktop\ksy\study\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojAssemblyReference.cache
+C:\Users\Honeywell\Desktop\ksy\study\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+C:\Users\Honeywell\Desktop\ksy\study\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+C:\Users\Honeywell\Desktop\ksy\study\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.cache
+C:\Users\Honeywell\Desktop\ksy\study\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Honeywell\Desktop\ksy\study\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+C:\Users\Honeywell\Desktop\ksy\study\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
